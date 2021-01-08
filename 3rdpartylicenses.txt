@@ -361,6 +361,8 @@ ngx-bootstrap/alert
 
 ngx-bootstrap/buttons
 
+ngx-bootstrap/collapse
+
 ngx-bootstrap/component-loader
 
 ngx-bootstrap/dropdown
